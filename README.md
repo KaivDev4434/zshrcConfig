@@ -1,0 +1,2 @@
+# zshrcConfig
+terminal zshrcConfig
